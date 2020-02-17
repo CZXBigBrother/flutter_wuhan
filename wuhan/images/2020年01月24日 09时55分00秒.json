@@ -1,0 +1,86 @@
+{
+    "code": 200,
+    "data": {
+        "time": "2020年01月24日 09时55分00秒",
+        "data": [
+            {
+                "country": "全球",
+                "confirme": 847,
+                "dead": 25,
+                "cure": 37,
+                "image": "https://download-1257933677.cos.ap-shanghai.myqcloud.com/json/image/ww.png"
+            },
+            {
+                "country": "中国",
+                "confirme": 830,
+                "dead": 25,
+                "cure": 34,
+                "image": "https://download-1257933677.cos.ap-shanghai.myqcloud.com/json/image/zh.png"
+            },
+            {
+                "country": "泰国",
+                "confirme": 3,
+                "dead": 0,
+                "cure": 2,
+                "image": "https://download-1257933677.cos.ap-shanghai.myqcloud.com/json/image/tl.png"
+            },
+            {
+                "country": "澳门",
+                "confirme": 2,
+                "dead": 0,
+                "cure": 0,
+                "image": "https://download-1257933677.cos.ap-shanghai.myqcloud.com/json/image/mm.png"
+            },
+            {
+                "country": "香港",
+                "confirme": 2,
+                "dead": 0,
+                "cure": 0,
+                "image": "https://download-1257933677.cos.ap-shanghai.myqcloud.com/json/image/hk.png"
+            },
+            {
+                "country": "越南(新)",
+                "confirme": 2,
+                "dead": 0,
+                "cure": 0,
+                "image": "https://download-1257933677.cos.ap-shanghai.myqcloud.com/json/image/yn.png"
+            },
+            {
+                "country": "日本",
+                "confirme": 2,
+                "dead": 0,
+                "cure": 1,
+                "image": "https://download-1257933677.cos.ap-shanghai.myqcloud.com/json/image/jp.png"
+            },
+            {
+                "country": "韩国",
+                "confirme": 2,
+                "dead": 0,
+                "cure": 0,
+                "image": "https://download-1257933677.cos.ap-shanghai.myqcloud.com/json/image/sk.png"
+            },
+            {
+                "country": "新加坡",
+                "confirme": 2,
+                "dead": 0,
+                "cure": 0,
+                "image": "https://download-1257933677.cos.ap-shanghai.myqcloud.com/json/image/sp.png"
+            },
+            {
+                "country": "台湾地区",
+                "confirme": 1,
+                "dead": 0,
+                "cure": 0,
+                "image": "https://download-1257933677.cos.ap-shanghai.myqcloud.com/json/image/tw.png"
+            },
+            {
+                "country": "美国",
+                "confirme": 1,
+                "dead": 0,
+                "cure": 0,
+                "image": "https://download-1257933677.cos.ap-shanghai.myqcloud.com/json/image/usa.png"
+            }
+        ]
+    },
+    "msg": ""
+}
